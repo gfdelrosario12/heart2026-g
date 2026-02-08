@@ -281,7 +281,7 @@ export function UsersTable() {
                 {/* Venue Image */}
                 <div className="mb-3 rounded-lg overflow-hidden shadow-lg">
                   <img
-                    src="/vistacafe.jpeg"
+                    src="https://raw.githubusercontent.com/gfdelrosario12/heart2026-g/main/public/vistacafe.jpg"
                     alt="Vista Cafe Sunset View"
                     className="w-full h-48 sm:h-56 md:h-72 lg:h-80 object-cover"
                   />

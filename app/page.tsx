@@ -7,6 +7,7 @@ export default function Page() {
   const router = useRouter();
 
   useEffect(() => {
+    document.title = 'Heart 2026';
     router.push('/login');
   }, [router]);
 

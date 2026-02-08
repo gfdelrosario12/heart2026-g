@@ -22,6 +22,8 @@ export default function DashboardPage() {
   const [showValentine, setShowValentine] = useState(false);
 
   useEffect(() => {
+    document.title = 'Dashboard | Heart 2026';
+    
     // Check if user is authenticated by trying to fetch user data
     const checkAuth = async () => {
       try {
