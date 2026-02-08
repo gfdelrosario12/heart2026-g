@@ -1,0 +1,39 @@
+{
+  "dates": [
+  {
+      "id": "1",
+      "date": "2024-12-09",
+      "title": "First Lunch Date",
+      "location": "Gracielle's No. 1, Taiwanese Chicken Restaurant, Anonas, Santa Mesa, Manila, Metro Manila",
+      "imageUrl": "https://sera-glides-2025.s3.ap-southeast-1.amazonaws.com/gallery/December+9%2C+2024/photo_6325623676476705559_y.jpg"
+    },
+    {
+      "id": "2",
+      "date": "2024-12-16",
+      "title": "Sabay us umuwi from PUP hehe",
+      "location": "LRT Doroteo Jose Station",
+      "imageUrl": "https://sera-glides-2025.s3.ap-southeast-1.amazonaws.com/gallery/December+16%2C+2024/photo_6325623676476705551_y.jpg"
+    },
+    {
+      "id": "3",
+      "date": "2024-12-19",
+      "title": "JUGPH Event at Makati",
+      "location": "Orange and Bronze Office, Makati City",
+      "imageUrl": "https://sera-glides-2025.s3.ap-southeast-1.amazonaws.com/gallery/December+19%2C+2024/photo_6325623676476705543_y.jpg"
+    },
+    {
+      "id": "4",
+      "date": "2023-12-27",
+      "title": "Post-Christmas Date at Mandaluyong",
+      "location": "Ronac Art center, Mandaluyong City",
+      "imageUrl": "https://sera-glides-2025.s3.ap-southeast-1.amazonaws.com/gallery/December+27%2C+2024/photo_6325623676476705622_y.jpg"
+    },
+    {
+      "id": "5",
+      "date": "2024-02-14",
+      "title": "Valentine's Day 2024",
+      "location": "Pasig River Esplanade, Manila city",
+      "imageUrl": "https://sera-glides-2025.s3.ap-southeast-1.amazonaws.com/gallery/February+14%2C+2025/photo_4_2025-05-22_02-36-42.jpg"
+    }
+  ]
+}

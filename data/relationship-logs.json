@@ -1,0 +1,16 @@
+{
+  "logs": [
+    {
+      "id": "1",
+      "action": "FIRST_SIGHT",
+      "details": "The moment I first saw you, my heart skipped a beat 💕",
+      "created_at": "2024-09-14T19:30:00Z"
+    },
+    {
+      "id": "2",
+      "action": "LOVE_GROWS",
+      "details": "You're the dream I never want to wake up from 💫",
+      "created_at": "2024-12-06T00:00:00Z"
+    }
+  ]
+}
