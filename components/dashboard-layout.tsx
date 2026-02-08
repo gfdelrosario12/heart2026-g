@@ -9,6 +9,7 @@ import {
   LogOut,
   Users,
   Lock,
+  Heart,
   Shield,
   BarChart3,
 } from 'lucide-react';
@@ -95,6 +96,14 @@ export function DashboardLayout({
         </nav>
 
         <div className="p-2 md:p-4 space-y-2 border-t border-slate-700">
+          <Button
+            variant="ghost"
+            className="w-full justify-start text-pink-300 hover:bg-pink-900/20"
+            onClick={onValentineClick}
+          >
+            <Heart className="w-5 h-5 mr-2" />
+            {sidebarOpen && <span>Valentine</span>}
+          </Button>
           <Button
             variant="ghost"
             className="w-full justify-start text-red-400 hover:bg-red-900/20"

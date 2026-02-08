@@ -131,7 +131,7 @@ export function ValentineModal({ onClose }: ValentineModalProps) {
             </p>
             <p className="text-center text-pink-200 text-sm">
               This special date is all about celebrating love, trust, and secure
-              connections—just like the foundations of every security management.
+              connections—just like the foundations of every security management platform.
             </p>
             <div className="mt-6 pt-4 border-t border-pink-700/50 w-full">
               <div className="text-center space-y-1">
@@ -139,7 +139,7 @@ export function ValentineModal({ onClose }: ValentineModalProps) {
                   Cloud IAM Training Platform
                 </p>
                 <p className="text-pink-400 text-xs">Version 1.0.0-beta</p>
-                <p className="text-pink-400 text-xs">Build: Feb 2024</p>
+                <p className="text-pink-400 text-xs">Build: Feb 2026</p>
                 <p className="text-pink-300/70 text-xs mt-2">
                   Secure • Scalable • Simple
                 </p>
